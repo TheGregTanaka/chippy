@@ -11,4 +11,4 @@ emulator](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/),
 - Austin Morlan
   - [Building a Chip-8 Emulator](https://austinmorlan.com/posts/chip8_emulator/)
 - Christian Nieves
-  - [dorito-8](https://github.com/squk/dorito-8/tree/master)
+  - [squk/dorito-8](https://github.com/squk/dorito-8/tree/master)
